@@ -1,0 +1,76 @@
+{
+  "canvas_width": 860,
+  "full_height": 16520,
+  "full_file": "오미인더치_오미자콜드브루_상세페이지_전체.png",
+  "full_sha256": "f07b53589e39b37c5ce35968faac2a029a99f8a638c0d4606582045c39f8bada",
+  "slices": [
+    {
+      "order": 1,
+      "file": "쿠팡_01_오미자콜드브루.jpg",
+      "width": 860,
+      "height": 2789,
+      "top": 0,
+      "bottom": 2789,
+      "jpeg_quality": 90,
+      "bytes": 331410,
+      "sha256": "a3af9599b03809c9eaa77b50fcacf89c5de0f98b85c780adf2611a2dc6febfa6"
+    },
+    {
+      "order": 2,
+      "file": "쿠팡_02_오미자콜드브루.jpg",
+      "width": 860,
+      "height": 3296,
+      "top": 2789,
+      "bottom": 6085,
+      "jpeg_quality": 90,
+      "bytes": 666247,
+      "sha256": "8f1fb91540220915795f4124c3a5beadeefd2b58caac75adf09e5250ac0ab3ec"
+    },
+    {
+      "order": 3,
+      "file": "쿠팡_03_오미자콜드브루.jpg",
+      "width": 860,
+      "height": 2835,
+      "top": 6085,
+      "bottom": 8920,
+      "jpeg_quality": 90,
+      "bytes": 274975,
+      "sha256": "0b7cb6d6b80963d18dfbab6ba937f8bd3fb607c9ac716442f23487898eee3509"
+    },
+    {
+      "order": 4,
+      "file": "쿠팡_04_오미자콜드브루.jpg",
+      "width": 860,
+      "height": 2750,
+      "top": 8920,
+      "bottom": 11670,
+      "jpeg_quality": 90,
+      "bytes": 326890,
+      "sha256": "dbb746fa737f9564673b5d824f50da356a533553de0548c91f9162834f0ff305"
+    },
+    {
+      "order": 5,
+      "file": "쿠팡_05_오미자콜드브루.jpg",
+      "width": 860,
+      "height": 4000,
+      "top": 11670,
+      "bottom": 15670,
+      "jpeg_quality": 90,
+      "bytes": 325684,
+      "sha256": "54f7ae3fc42fbceccaeeb94bbe78c1a8c066b455ffb6cde061f473872aebb09b"
+    },
+    {
+      "order": 6,
+      "file": "쿠팡_06_오미자콜드브루.jpg",
+      "width": 860,
+      "height": 850,
+      "top": 15670,
+      "bottom": 16520,
+      "jpeg_quality": 90,
+      "bytes": 73004,
+      "sha256": "f2aebb4f963f25172817cc86d17a3e8a6fafc7eb9015b4d95dad0533dbdccc8a"
+    }
+  ],
+  "contact_sheet": "검수표.jpg",
+  "contact_sheet_sha256": "36170bc5301a2ed5e84c4a96932e9dce32dc02addd05b09f6558ef52f42dd513"
+}

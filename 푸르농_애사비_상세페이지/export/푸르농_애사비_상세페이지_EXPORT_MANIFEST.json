@@ -1,0 +1,47 @@
+{
+  "canvas_width": 860,
+  "full_height": 13655,
+  "full_file": "푸르농_애사비_상세페이지_전체.png",
+  "slices": [
+    {
+      "order": 1,
+      "file": "푸르농_애사비_상세_01.jpg",
+      "width": 860,
+      "height": 4049,
+      "top": 0,
+      "bottom": 4049,
+      "jpeg_quality": 90,
+      "bytes": 529713
+    },
+    {
+      "order": 2,
+      "file": "푸르농_애사비_상세_02.jpg",
+      "width": 860,
+      "height": 2750,
+      "top": 4049,
+      "bottom": 6799,
+      "jpeg_quality": 90,
+      "bytes": 367699
+    },
+    {
+      "order": 3,
+      "file": "푸르농_애사비_상세_03.jpg",
+      "width": 860,
+      "height": 2783,
+      "top": 6799,
+      "bottom": 9582,
+      "jpeg_quality": 90,
+      "bytes": 225199
+    },
+    {
+      "order": 4,
+      "file": "푸르농_애사비_상세_04.jpg",
+      "width": 860,
+      "height": 4073,
+      "top": 9582,
+      "bottom": 13655,
+      "jpeg_quality": 90,
+      "bytes": 424785
+    }
+  ]
+}

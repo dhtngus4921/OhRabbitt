@@ -1,0 +1,29 @@
+# Python virtual environments and caches
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+pytest-cache-files-*/
+
+# Temporary workspace files
+tmp/
+*.tmp
+*.log
+
+# OS/editor metadata
+.DS_Store
+Thumbs.db
+
+# Temporary browser profiles created during export/QA.
+# These can contain cookies, session databases, and machine-specific state.
+**/export_work/*profile*/
+**/export_work/qa_*profile*/
+**/export_work/qa_final_*/
+
+# Local environment/secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.pfx
+*.key

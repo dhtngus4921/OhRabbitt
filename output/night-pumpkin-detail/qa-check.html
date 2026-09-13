@@ -1,0 +1,24 @@
+<!doctype html>
+<meta charset="utf-8">
+<style>body{margin:20px;font:18px/1.6 Consolas,monospace;white-space:pre-wrap}iframe{position:absolute;left:-10000px;top:0}</style>
+<pre id="result">waiting</pre>
+<iframe id="page" src="index.html" style="width:860px;height:20000px;border:0"></iframe>
+<script>
+const frame = document.getElementById('page');
+frame.addEventListener('load', async () => {
+  const doc = frame.contentDocument;
+  await doc.fonts.ready;
+  const images = [...doc.images];
+  const candidates = [...doc.querySelectorAll('h1,h2,h3,p,span,b,small,dt,dd,li,summary,td,th')];
+  const overflow = candidates.filter(el => el.scrollWidth > el.clientWidth + 1).map(el => ({tag: el.tagName, text: el.textContent.trim().slice(0,80), scrollWidth: el.scrollWidth, clientWidth: el.clientWidth}));
+  document.getElementById('result').textContent = JSON.stringify({
+    images: {total: images.length, loaded: images.filter(img => img.complete && img.naturalWidth > 0).length},
+    fonts: {
+      danjunghae: doc.fonts.check('16px Cafe24Danjunghae'),
+      behappy: doc.fonts.check('16px Cafe24Behappy')
+    },
+    overflow,
+    page: {scrollWidth: doc.documentElement.scrollWidth, clientWidth: doc.documentElement.clientWidth, scrollHeight: doc.documentElement.scrollHeight}
+  });
+});
+</script>

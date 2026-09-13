@@ -1,0 +1,47 @@
+{
+  "canvas_width": 860,
+  "full_height": 13385,
+  "full_file": "오토끼_도자기화병_상세페이지_전체.png",
+  "slices": [
+    {
+      "order": 1,
+      "file": "오토끼_도자기화병_상세_01.jpg",
+      "width": 860,
+      "height": 3728,
+      "top": 0,
+      "bottom": 3728,
+      "jpeg_quality": 90,
+      "bytes": 364927
+    },
+    {
+      "order": 2,
+      "file": "오토끼_도자기화병_상세_02.jpg",
+      "width": 860,
+      "height": 3336,
+      "top": 3728,
+      "bottom": 7064,
+      "jpeg_quality": 90,
+      "bytes": 337406
+    },
+    {
+      "order": 3,
+      "file": "오토끼_도자기화병_상세_03.jpg",
+      "width": 860,
+      "height": 2777,
+      "top": 7064,
+      "bottom": 9841,
+      "jpeg_quality": 90,
+      "bytes": 229499
+    },
+    {
+      "order": 4,
+      "file": "오토끼_도자기화병_상세_04.jpg",
+      "width": 860,
+      "height": 3544,
+      "top": 9841,
+      "bottom": 13385,
+      "jpeg_quality": 90,
+      "bytes": 265753
+    }
+  ]
+}

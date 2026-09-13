@@ -1,0 +1,57 @@
+{
+  "canvas_width": 860,
+  "full_height": 16446,
+  "full_file": "오토끼_우리쌀라이스칩_상세페이지_전체.png",
+  "slices": [
+    {
+      "order": 1,
+      "file": "오토끼_우리쌀라이스칩_상세_01.jpg",
+      "width": 860,
+      "height": 3764,
+      "top": 0,
+      "bottom": 3764,
+      "jpeg_quality": 90,
+      "bytes": 631893
+    },
+    {
+      "order": 2,
+      "file": "오토끼_우리쌀라이스칩_상세_02.jpg",
+      "width": 860,
+      "height": 3337,
+      "top": 3764,
+      "bottom": 7101,
+      "jpeg_quality": 90,
+      "bytes": 548916
+    },
+    {
+      "order": 3,
+      "file": "오토끼_우리쌀라이스칩_상세_03.jpg",
+      "width": 860,
+      "height": 3457,
+      "top": 7101,
+      "bottom": 10558,
+      "jpeg_quality": 90,
+      "bytes": 536021
+    },
+    {
+      "order": 4,
+      "file": "오토끼_우리쌀라이스칩_상세_04.jpg",
+      "width": 860,
+      "height": 3020,
+      "top": 10558,
+      "bottom": 13578,
+      "jpeg_quality": 90,
+      "bytes": 433094
+    },
+    {
+      "order": 5,
+      "file": "오토끼_우리쌀라이스칩_상세_05.jpg",
+      "width": 860,
+      "height": 2868,
+      "top": 13578,
+      "bottom": 16446,
+      "jpeg_quality": 90,
+      "bytes": 350851
+    }
+  ]
+}

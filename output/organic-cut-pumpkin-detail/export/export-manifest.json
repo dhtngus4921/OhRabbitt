@@ -1,0 +1,53 @@
+{
+  "canvas_width": 860,
+  "full_height": 11820,
+  "full_file": "유기농_손질_단호박_상세페이지_전체.png",
+  "full_sha256": "3bff930a570f8bedd61045119b5bbfc1916a15dda628af562c782afb1e7b5a55",
+  "slices": [
+    {
+      "order": 1,
+      "file": "쿠팡_01_유기농_손질_단호박.jpg",
+      "width": 860,
+      "height": 3139,
+      "top": 0,
+      "bottom": 3139,
+      "jpeg_quality": 92,
+      "bytes": 558246,
+      "sha256": "dd1b945b5da911a0cd3e84f1b7a2828f319e16684a32c452228b6a79dec87e6b"
+    },
+    {
+      "order": 2,
+      "file": "쿠팡_02_유기농_손질_단호박.jpg",
+      "width": 860,
+      "height": 2524,
+      "top": 3139,
+      "bottom": 5663,
+      "jpeg_quality": 92,
+      "bytes": 445356,
+      "sha256": "1a8a9cc8603114dfd44cabbe14db326f9a955f60824f02cfe536de8535dc4907"
+    },
+    {
+      "order": 3,
+      "file": "쿠팡_03_유기농_손질_단호박.jpg",
+      "width": 860,
+      "height": 2726,
+      "top": 5663,
+      "bottom": 8389,
+      "jpeg_quality": 92,
+      "bytes": 389124,
+      "sha256": "e2118175c78dddac6cb41f99a8777fd99351dbe3413602ec77734b372bb19af2"
+    },
+    {
+      "order": 4,
+      "file": "쿠팡_04_유기농_손질_단호박.jpg",
+      "width": 860,
+      "height": 3431,
+      "top": 8389,
+      "bottom": 11820,
+      "jpeg_quality": 92,
+      "bytes": 432544,
+      "sha256": "bf9c315848d58e94815175595dd7ad7ca4f522558e784413537df727e73f883b"
+    }
+  ],
+  "contact_sheet": "쿠팡_분할본_검수표.png"
+}

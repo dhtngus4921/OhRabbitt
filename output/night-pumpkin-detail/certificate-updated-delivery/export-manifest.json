@@ -1,0 +1,63 @@
+{
+  "canvas_width": 860,
+  "full_height": 14985,
+  "full_file": "오토끼마켓_유기농밤호박_상세페이지_전체.png",
+  "full_sha256": "d2325cbe5ad9ea4d971b6a54934eb5b92c840a1722452f25203ee18246f661e5",
+  "slices": [
+    {
+      "order": 1,
+      "file": "쿠팡_01_유기농밤호박.jpg",
+      "width": 860,
+      "height": 2969,
+      "top": 0,
+      "bottom": 2969,
+      "jpeg_quality": 92,
+      "bytes": 727513,
+      "sha256": "c404e70ed10ba5f48c79a0b94415888ac676f21568f26f579eb9bd04f4144491"
+    },
+    {
+      "order": 2,
+      "file": "쿠팡_02_유기농밤호박.jpg",
+      "width": 860,
+      "height": 2930,
+      "top": 2969,
+      "bottom": 5899,
+      "jpeg_quality": 92,
+      "bytes": 373237,
+      "sha256": "b274aa44a553d63ba7eeaa23c087e9a39541e275bddd2e68b4f9cac9d5b746a7"
+    },
+    {
+      "order": 3,
+      "file": "쿠팡_03_유기농밤호박.jpg",
+      "width": 860,
+      "height": 3075,
+      "top": 5899,
+      "bottom": 8974,
+      "jpeg_quality": 92,
+      "bytes": 631690,
+      "sha256": "738f42d8394598fbd771510128cc050fb6692c0cfb38c98ca65f072b2fa24f47"
+    },
+    {
+      "order": 4,
+      "file": "쿠팡_04_유기농밤호박.jpg",
+      "width": 860,
+      "height": 2545,
+      "top": 8974,
+      "bottom": 11519,
+      "jpeg_quality": 92,
+      "bytes": 510715,
+      "sha256": "525127157df7d510e31d195abfd35034b07bcd832ca2384ebd6c70611af118b2"
+    },
+    {
+      "order": 5,
+      "file": "쿠팡_05_유기농밤호박.jpg",
+      "width": 860,
+      "height": 3466,
+      "top": 11519,
+      "bottom": 14985,
+      "jpeg_quality": 92,
+      "bytes": 433338,
+      "sha256": "6a51b1bef54bfe470de2df7743e3fd15b53b9c3525d2501875bc9020cd26314a"
+    }
+  ]
+}

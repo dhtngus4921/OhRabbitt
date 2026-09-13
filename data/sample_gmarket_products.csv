@@ -1,0 +1,6 @@
+id,name,url,price,coupon_discount_amount,coupon_discount_rate,category,seller
+1000001,Wireless earbuds,https://item.gmarket.co.kr/Item?goodscode=1000001,89000,18000,,digital,Sample Seller A
+1000002,Robot vacuum,https://item.gmarket.co.kr/Item?goodscode=1000002,349000,,12.5,home,Sample Seller B
+1000003,Gaming monitor,https://item.gmarket.co.kr/Item?goodscode=1000003,299000,45000,,digital,Sample Seller C
+1000004,Premium coffee beans,https://item.gmarket.co.kr/Item?goodscode=1000004,28000,7000,,grocery,Sample Seller D
+1000005,Running shoes,https://item.gmarket.co.kr/Item?goodscode=1000005,129000,,0.18,fashion,Sample Seller E
