@@ -1,8 +1,8 @@
 {
   "canvas_width": 860,
-  "full_height": 16520,
+  "full_height": 16368,
   "full_file": "오미인더치_오미자콜드브루_상세페이지_전체.png",
-  "full_sha256": "f07b53589e39b37c5ce35968faac2a029a99f8a638c0d4606582045c39f8bada",
+  "full_sha256": "d4875700e73a54291f0c29549776742170ddb11fe6b174e6b69f11faa05d73f2",
   "slices": [
     {
       "order": 1,
@@ -56,21 +56,21 @@
       "top": 11670,
       "bottom": 15670,
       "jpeg_quality": 90,
-      "bytes": 325684,
-      "sha256": "54f7ae3fc42fbceccaeeb94bbe78c1a8c066b455ffb6cde061f473872aebb09b"
+      "bytes": 347283,
+      "sha256": "528444ab7d5c37be4cd85c3150afa7421f2d63dffc0c3b2dadd81c3568b069bd"
     },
     {
       "order": 6,
       "file": "쿠팡_06_오미자콜드브루.jpg",
       "width": 860,
-      "height": 850,
+      "height": 698,
       "top": 15670,
-      "bottom": 16520,
+      "bottom": 16368,
       "jpeg_quality": 90,
-      "bytes": 73004,
-      "sha256": "f2aebb4f963f25172817cc86d17a3e8a6fafc7eb9015b4d95dad0533dbdccc8a"
+      "bytes": 43245,
+      "sha256": "3812c999e7b40a44a21ca2471a3700b0bcd963ef66af159c1c1345604b345c5c"
     }
   ],
   "contact_sheet": "검수표.jpg",
-  "contact_sheet_sha256": "36170bc5301a2ed5e84c4a96932e9dce32dc02addd05b09f6558ef52f42dd513"
+  "contact_sheet_sha256": "4ff0c7aaea5d9ae3b7acc450e9f33a62d7b795dc84e47e40b9b9ff3a8934a9e3"
 }

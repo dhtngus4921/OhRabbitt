@@ -14,7 +14,7 @@
 10. HOW TO — ICE / SPARKLING / WARM
 11. RECOMMEND
 12. BRAND STORY — OMI IN DUTCH
-13. OPTION — 18,800원
+13. OPTION — 30ml × 10개입 / 1박스
 14. NUTRITION — 1포 30ml당 3.4kcal
 15. FAQ
 16. PRODUCT INFORMATION
@@ -42,7 +42,6 @@
 
 - 공식 상품명: 오미인더치 오미자 콜드브루 차
 - 실제 구성: 30ml × 10개입 / 1박스
-- 판매가: 18,800원
 - 식품유형: 액상차
 - 원산지: 국내산(문경)
 - 원재료 및 함량: 오미자추출액 100%(정제수, 오미자고형분 3.6%)
