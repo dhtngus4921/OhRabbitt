@@ -2,6 +2,22 @@
 
 FastAPI service that selects the Gmarket products with the highest coupon discount rate each week.
 
+## Git sync workflow
+
+Run this before starting work. It only pulls when the working tree is clean, and uses fast-forward mode to avoid creating an unintended merge commit.
+
+```powershell
+.\git-start.ps1
+```
+
+Run this after finishing work. It stages all non-ignored changes, commits them, and pushes the current branch.
+
+```powershell
+.\git-finish.ps1 "Describe the completed work"
+```
+
+If the commit message is omitted, the script uses the current date and time.
+
 ## Endpoints
 
 - `GET /api/v1/recommendations/gmarket/weekly`
